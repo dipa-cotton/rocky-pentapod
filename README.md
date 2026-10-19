@@ -1,5 +1,5 @@
 # rocky-pentapod
-i'm building rocky from project hail mary but movable because i love moving things!
+i'm building rocky from project hail mary but movable because i love moving things! it's a 5 legged "pentapod" with joints controlled by servos, and coded in c++.
 
 # pictures
 <img width="591" height="621" alt="Screenshot 2026-10-18 at 6 00 10 PM" src="https://github.com/user-attachments/assets/13f2d91d-054a-4eaf-9b4b-7c50d11f543e" />
